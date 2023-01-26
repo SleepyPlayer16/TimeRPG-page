@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TimeRPG-page/static/css/main.cd098d9d.css",
+    "main.js": "/TimeRPG-page/static/js/main.db26323a.js",
+    "static/js/787.310bf1ed.chunk.js": "/TimeRPG-page/static/js/787.310bf1ed.chunk.js",
+    "static/media/backLiz.png": "/TimeRPG-page/static/media/backLiz.ba10d4193428385992ad.png",
+    "static/media/lucida.ttf": "/TimeRPG-page/static/media/lucida.4a1bec3b0b2006e60d75.ttf",
+    "static/media/timerpgImage.png": "/TimeRPG-page/static/media/timerpgImage.8f13fb36b792b69ea07c.png",
+    "index.html": "/TimeRPG-page/index.html",
+    "main.cd098d9d.css.map": "/TimeRPG-page/static/css/main.cd098d9d.css.map",
+    "main.db26323a.js.map": "/TimeRPG-page/static/js/main.db26323a.js.map",
+    "787.310bf1ed.chunk.js.map": "/TimeRPG-page/static/js/787.310bf1ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd098d9d.css",
+    "static/js/main.db26323a.js"
+  ]
+}
